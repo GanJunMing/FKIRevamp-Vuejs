@@ -1,0 +1,11 @@
+{
+  "name": "fkiwebbackend",
+  "version": "1.0.0",
+  "description": "this the backend of hci assignment named it FKI event management page ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gan Jun Ming",
+  "license": "ISC"
+}
